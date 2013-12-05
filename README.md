@@ -1,5 +1,6 @@
-Firebase Token Generator npm module packaged for Meteor
-==========================
+meteor-firebase-token-generator
+===============================
+Just a firebase-token-generator wrapper for Meteor.
 
 npm module lives [here](https://npmjs.org/package/firebase-token-generator)
 
