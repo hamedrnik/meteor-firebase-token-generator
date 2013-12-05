@@ -33,7 +33,7 @@ firebase.auth(token, function(error, result){
 ```
 
 ## LICENSE
-This project just a wrapper for firebase-token-generator.
+This project just a firebase-token-generator npm wrapper for Meteor.
 
 ```
 Copyright (C) 2013  Hamed Ramezanian
