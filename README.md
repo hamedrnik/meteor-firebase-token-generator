@@ -32,7 +32,7 @@ firebase.auth(token, function(error, result){
 });
 ```
 
-**LICENSE**
+## LICENSE
 This project just a wrapper for firebase-token-generator.
 
 ```
