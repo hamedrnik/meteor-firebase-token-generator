@@ -1,0 +1,8 @@
+{
+  "name": "firebase-token-generator",
+  "description": "A utility to generate signed Firebase Authentication Tokens",
+  "homepage": "https://github.com/iCEAGE/meteor-firebase-token-generator",
+  "author": "Hamed Ramezanian (http://twitter/iceage2098)",
+  "version": "0.1.4",
+  "git": "https://github.com/iCEAGE/meteor-firebase-token-generator.git"
+}
